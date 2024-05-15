@@ -263,15 +263,15 @@ export default function GrowingComunity() {
           <div className="gap-5 lg:mx-32 mx-10 grid">
           <div className="lg:flex grid items-center gap-5">
             <Image src={ImageOne} alt='' className="rounded-full w-32 h-32 object-cover lg:mx-0 mx-auto" />
-            <h3>As a DJ in Los Angeles, GigResource has been a game-changer for my business. The platform is user-friendly, and the service is top-notch. It's made connecting with clients and booking gigs a breeze. Highly recommend it! - DJ Jamz, Professional Disc Jockey</h3>
+            <h3>As a DJ in Los Angeles, GigResource has been a game-changer for my business. The platform is user-friendly, and the service is top-notch. It{`'`}s made connecting with clients and booking gigs a breeze. Highly recommend it! - DJ Jamz, Professional Disc Jockey</h3>
           </div>
           <div className="lg:flex grid items-center gap-5">
             <Image src={ImageTwo} alt='' className="rounded-full w-32 h-32 object-cover lg:mx-0 mx-auto" />
-            <h3>Truly magical moments with GigResource! I'm a magician based in New York City, and Gigresource has truly elevated my business. The platform is fantastic, and the support is unmatched. It has opened doors to incredible events, and I couldn't be happier with the results. - Mystique, Illusionist</h3>
+            <h3>Truly magical moments with GigResource! I{`'`}m a magician based in New York City, and Gigresource has truly elevated my business. The platform is fantastic, and the support is unmatched. It has opened doors to incredible events, and I couldn{`'`}t be happier with the results. - Mystique, Illusionist</h3>
           </div>
           <div className="lg:flex grid items-center gap-5">
             <Image src={ImageThree} alt='' className="rounded-full w-32 h-32 object-cover lg:mx-0 mx-auto" />
-            <h3>Thanks to GigResource! It has transformed my balloon art business. The platform's simplicity is a game-changer, and the service is outstanding. It's been instrumental in expanding my client base and growing my business. - CJ Balloons and Decors, Balloon Artist & Party Needs Supplier</h3>
+            <h3>Thanks to GigResource! It has transformed my balloon art business. The platform{`'`}s simplicity is a game-changer, and the service is outstanding. It{`'`}s been instrumental in expanding my client base and growing my business. - CJ Balloons and Decors, Balloon Artist & Party Needs Supplier</h3>
           </div>
           <div className="lg:flex grid items-center gap-5">
             <Image src={ImageFour} alt='' className="rounded-full w-32 h-32 object-cover lg:mx-0 mx-auto" />
@@ -290,13 +290,13 @@ export default function GrowingComunity() {
         <AccordionItem value="item-1">
             <AccordionTrigger>Wh1. What is GigResource? </AccordionTrigger>
             <AccordionContent>
-            Gigresource is an innovative event booking platform that connects vendors and entertainers with individuals looking to organize memorable events. Whether you're a caterer, DJ, magician, or any other event professional, Gigresource provides a centralized platform to showcase your services and reach a wider audience.
+            Gigresource is an innovative event booking platform that connects vendors and entertainers with individuals looking to organize memorable events. Whether you{`'`}re a caterer, DJ, magician, or any other event professional, Gigresource provides a centralized platform to showcase your services and reach a wider audience.
             </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-2">
             <AccordionTrigger>2. How can I sign up as a vendor? </AccordionTrigger>
             <AccordionContent>
-            Signing up as a vendor or entertainer on Gigresource is easy! Simply click on the “Join Us” button above. Fill out the registration form with your details, including the category of your offered services, and submit the necessary documentation. Once approved, you'll gain access to your personalized vendor dashboard.
+            Signing up as a vendor or entertainer on Gigresource is easy! Simply click on the “Join Us” button above. Fill out the registration form with your details, including the category of your offered services, and submit the necessary documentation. Once approved, you{`'`}ll gain access to your personalized vendor dashboard.
             </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-3">
@@ -344,7 +344,7 @@ export default function GrowingComunity() {
         <AccordionItem value="item-10">
             <AccordionTrigger>10. How are reviews and ratings handled on Gigresource? </AccordionTrigger>
             <AccordionContent>
-            Clients have the opportunity to leave reviews and ratings based on their experience with your services. Positive reviews enhance your credibility and visibility on the platform. It's essential to encourage satisfied clients to share their feedback and address any concerns promptly to maintain a positive reputation.
+            Clients have the opportunity to leave reviews and ratings based on their experience with your services. Positive reviews enhance your credibility and visibility on the platform. It{`'`}s essential to encourage satisfied clients to share their feedback and address any concerns promptly to maintain a positive reputation.
             </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-11">

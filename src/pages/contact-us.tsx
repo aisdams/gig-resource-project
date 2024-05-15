@@ -30,7 +30,7 @@ export default function ContactUs() {
         <div className="text-center mt-10 mb-20">
             <h1 className='font-bold text-3xl my-2'>TALK WITH US</h1>
             <h3 className='font-bold'>Let us know how we can help you.</h3>
-            <p>For the fastest assistance, you can browse our FAQs page and check if you can find answers regarding <br /> your questions. We're here for you Monday through Friday, <br /> (9:30am to 5:30pm EST) but sadly not during weekends and Federal Holidays.</p>
+            <p>For the fastest assistance, you can browse our FAQs page and check if you can find answers regarding <br /> your questions. We{`'`}re here for you Monday through Friday, <br /> (9:30am to 5:30pm EST) but sadly not during weekends and Federal Holidays.</p>
 
             <div className="grid lg:grid-cols-2 mx-20 mt-10 gap-5">
                 <Input placeholder='First Name.....' />

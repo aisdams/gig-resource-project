@@ -98,13 +98,13 @@ export default function Affaliate() {
         <AccordionItem value="item-2">
             <AccordionTrigger>How much can I earn? </AccordionTrigger>
             <AccordionContent>
-            We don't put a limit to how much you can earn! For every successful vendor referral, you get a 10% commission fee. You can monitor your revenue in your personal affiliate dashboard and keep track of your performance. 
+            We don{`'`}t put a limit to how much you can earn! For every successful vendor referral, you get a 10% commission fee. You can monitor your revenue in your personal affiliate dashboard and keep track of your performance. 
             </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-3">
             <AccordionTrigger>What do I need to sign up?</AccordionTrigger>
             <AccordionContent>
-            You need to have an active email address. To become a Gigresource affiliate, all you need is a device with internet access, then you're good to go!
+            You need to have an active email address. To become a Gigresource affiliate, all you need is a device with internet access, then you{`'`}re good to go!
             </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-4">
