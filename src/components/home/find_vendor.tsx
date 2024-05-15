@@ -15,7 +15,7 @@ import Image from 'next/image'
 
 export default function FindVendor() {
   return (
-    <div className='mx-20'>
+    <div className='lg:mx-20 mx-10'>
         <div className="grid lg:grid-cols-[2fr_1fr_1fr] gap-3">
         <div className="relative flex justify-center items-center h-72">
         <Image src={ImageFOne} alt="" className='h-full object-cover object-right filter brightness-50' />

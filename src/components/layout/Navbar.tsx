@@ -64,10 +64,10 @@ export default function Navbar() {
   };
 
   return (
-    <div className='flex justify-between py-3 mx-20'>
+    <div className='flex justify-between py-3'>
 
       {isMobile ? (
-        <div className="w-full grid grid-cols-2 justify-between">
+        <div className="w-full grid grid-cols-2 justify-between mx-10">
           <Image src={ImageLogo} alt='' className='w-16 h-10' />
           <Sheet>
             <SheetTrigger className='flex justify-end items-center'><FiMenu/></SheetTrigger>
@@ -102,7 +102,7 @@ export default function Navbar() {
           </Sheet>
         </div>
       ) : (
-        <div className='flex justify-between py-3 w-full'>
+        <div className='flex justify-between py-3 w-full mx-20'>
       <Image src={ImageLogo} alt='' className='w-16 h-10' />
 
       <div className='flex uppercase gap-3 items-center'>
