@@ -80,10 +80,10 @@ export default function Navbar() {
                   <DropdownMenu>
                   <DropdownMenuTrigger>Service</DropdownMenuTrigger>
                   <DropdownMenuContent>
-                    <DropdownMenuLabel>Affiliate</DropdownMenuLabel>
+                    <DropdownMenuLabel><Link href="/affaliate">Affiliate</Link></DropdownMenuLabel>
                     <DropdownMenuSeparator />
-                    <DropdownMenuItem>Contact Us</DropdownMenuItem>
-                    <DropdownMenuItem>Growing Community</DropdownMenuItem>
+                    <DropdownMenuItem><Link href="/contact-us">Contact Us</Link></DropdownMenuItem>
+                    <DropdownMenuItem><Link href="/growing-comunity">Growing Community</Link></DropdownMenuItem>
                   </DropdownMenuContent>
                 </DropdownMenu>
                 </div>
